@@ -1,0 +1,6 @@
+regular - Accuracy: 0.7797
+distilled - Accuracy: 0.7601
+VGG16 - Accuracy: 0.9398
+ResNet50 - Accuracy: 0.9543
+VGG19 - Accuracy: 0.9375
+ResNet101 - Accuracy: 0.9544
